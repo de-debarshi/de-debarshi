@@ -35,8 +35,6 @@ Game automation tool using Cheerio and Node.js to interact with game UI and reso
 
 ### 📬 Get in Touch
 
-📧 Email: [your@email.com]  
-🌐 Portfolio: [your-website.com]  
 💼 LinkedIn: [linkedin.com/in/debarshi-de-178b60a6](#)
 
 ---
